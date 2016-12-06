@@ -1,0 +1,2 @@
+Chi Square Test Statistic:  3.69756097561
+p Value:  0.296028457943
